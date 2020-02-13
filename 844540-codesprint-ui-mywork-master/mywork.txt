@@ -1,0 +1,22 @@
+My associate id:
+844540
+Other team members:
+844505, 844555, 844572,844504.
+Team lead:
+844555
+My Role in team:
+1. To develop place-fitness-trainer-appointment, view-all-appointments html pages by applying bootstrap and i have write some functions in js.
+My development files:
+1. place-fitness-trainer-appointment.html
+2. view-all-appointments
+4. place-appointment.js
+I was strong in:
+1. HTML
+2. Css
+3.bootstrap
+3. Documentation
+4. javascript
+
+
+Feedback:
+By kepting this type of codesprints are very helpful to us, i have learnt new things from my team.
